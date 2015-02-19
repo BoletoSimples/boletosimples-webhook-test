@@ -18,7 +18,7 @@ Configure na variável de ambiente a Chave Secreta do webhook. Exemplo:
 
     $ export WEBHOOK_SECRET_KEY=2ef97bc3ec0bb91ba9c61afa301bda735a0fdbf2fbee154c7e738ef39be0211c
 
-    Atenção: Substitua o valor `2ef97bc...` pela chave secreta do webhook que você deseja testar.
+Atenção: Substitua o valor `2ef97bc...` pela chave secreta do webhook que você deseja testar.
 
 Para iniciar o servidor rode:
 
